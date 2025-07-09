@@ -1,0 +1,4 @@
+{
+  "Financeiro": ["Data", "Categoria", "Valor"],
+  "Clientes": ["Nome", "Email", "DataCadastro"]
+}
