@@ -1,7 +1,7 @@
-pandas
-streamlit
-sqlalchemy
-psycopg2-binary
-plotly
-python-dotenv
-openpyxl
+streamlit==1.29.0
+sqlalchemy==2.0.23
+pandas==2.1.1
+plotly==5.18.0
+python-dotenv==1.0.0
+bcrypt==4.0.1
+openpyxl==3.1.2
